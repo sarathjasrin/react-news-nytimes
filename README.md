@@ -79,6 +79,8 @@ This component contains search textbox.
 
 # API Calls
 
+Replace your api key in `constant.js` file. Which you can get it from https://developer.nytimes.com/
+
 * `topstories/v2/home.json` --> Get posts from current homepage of NYTimes
 *  `search/v2/articlesearch.json` --> Search posts using query.
 
