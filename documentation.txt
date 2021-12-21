@@ -1,0 +1,9 @@
+prerequisite: 
+1. Install Node
+2. open cmd type npm i create-react-app -g
+
+
+1. extract the zip file
+2. open command prompt navigate to project folder
+3. type npm start
+
